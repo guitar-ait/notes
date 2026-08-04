@@ -19,19 +19,19 @@
   今日无事发生，感觉模糊，看看明天怎么样。  
   该如何在保持这种舒适心态的同时高效学习？等我实践。11点半，感觉状态不错，可惜该睡了，晚安。
 ## 26年8月
-- 4日：
-  全部推倒重来
-  -数学
-  1.Single Variable Calculus
-  2.Linear Algebra
-  3.Information And Entropy
-  -计算机
-  1.CS：APP 
-  2.CS61B
-  3.MIT Missing Semester
-  -哲学
-  1.《没有地址的信》
-  -其他
-  1.《走近钱学森》
-  2.《球状闪电》
+- 4日：  
+  全部推倒重来  
+  -数学  
+  1.Single Variable Calculus  
+  2.《Introduction to Linear Algebra》    
+  3.《Information And Entropy》  
+  -计算机  
+  1.《CS：APP》  
+  2.CS61B  
+  3.MIT Missing Semester  
+  -哲学  
+  1.《没有地址的信》  
+  -其他  
+  1.《走近钱学森》  
+  2.《球状闪电》  
   
