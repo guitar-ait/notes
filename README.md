@@ -22,16 +22,16 @@
 - 4日：  
   全部推倒重来  
   -数学  
-  1.Single Variable Calculus  
-  2.《Introduction to Linear Algebra》    
+  1.Single Variable Calculus ~10%  
+  2.《Introduction to Linear Algebra》~4.41%    
   3.《Information And Entropy》  
   -计算机  
-  1.《CS：APP》  
+  1.《CS：APP》~6.78%  
   2.CS61B  
   3.MIT Missing Semester  
   -哲学  
-  1.《没有地址的信》  
+  1.《没有地址的信》~6.18%  
   -其他  
-  1.《走近钱学森》  
-  2.《球状闪电》  
+  1.《走近钱学森》~24%  
+  2.《球状闪电》~8%  
   
